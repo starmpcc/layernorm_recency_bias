@@ -1,5 +1,5 @@
-# Beyond RoPE: How Does Causal Mask Encode Positional Information?
-- An official implementation of the paper [Beyond RoPE: How Does Causal Mask Encode Positional Information?](https://arxiv.org/abs/2509.21042)
+# Behind RoPE: How Does Causal Mask Encode Positional Information?
+- An official implementation of the paper [Behind RoPE: How Does Causal Mask Encode Positional Information?](https://arxiv.org/abs/2509.21042)
 
 ![image](main.png)
 
