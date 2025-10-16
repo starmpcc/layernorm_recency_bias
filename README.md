@@ -16,7 +16,7 @@
   - `concept/simulation_rope.ipynb`: Section 5.1
   - `concept/rope_llms.ipynb`: Section 5.2
 - The outputs of each notebook are saved in the `figures` directory.
-- The model checkpoint for `concept/with_params.ipynb` will be provided in a future update.
+- The model checkpoint is provided on [huggingface](https://huggingface.co/starmpcc/NoPE_1.5B_FW_EDU_15T).
 
 
 ## Citation
