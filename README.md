@@ -1,5 +1,5 @@
 # LayerNorm Induces Recency Bias in Transformer Decoders
-- An official implementation of the paper [LayerNorm Induces Recency Bias in Transformer Decoders](https://arxiv.org/abs/2509.21042).
+- An official implementation of the paper [LayerNorm Induces Recency Bias in Transformer Decoders](https://arxiv.org/abs/2509.21042) (ACL 2026 Findings).
 
 ## Requirements
 - `$pip install torch matplotlib seaborn numpy`
